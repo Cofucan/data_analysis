@@ -1,6 +1,6 @@
 # My Data Analysis Portfolio Projects
 
-Just a couple of data analysis projects. Datasets gotten from different sourses (linked in each folder). 
+Just a couple of data analysis projects. Datasets gotten from different sourses (linked in each folder). There is a readme in each project folder where I describe my findings and tell my story.
 
 I follow a process for each project:
 1. Ask a few questions
@@ -11,3 +11,5 @@ I follow a process for each project:
 - I use Power Bi also because it is industry standard, but also because the free version allows for direct SQL integration. I can just select the datasets(s) (usually an Excel file) and insert my SQL code and then import the cleaned data directly. 
 
 For each project, I spend some time to study the dataset(s) and find patterns and answers to questions.
+
+Everything here is a work in progress.
