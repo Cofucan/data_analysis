@@ -3,6 +3,7 @@
 Just a couple of data analysis projects. Datasets gotten from different sourses (linked in each folder). There is a readme in each project folder where I describe my findings and tell my story.
 
 I follow a process for each project:
+---
 1. Ask a few questions
 2. Gather data for analysis
 3. Clean, filter and querry the data using different tools including Microsoft SQL, Excel, Power Bi, Tableau and Python.
