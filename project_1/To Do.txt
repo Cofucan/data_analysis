@@ -1,0 +1,6 @@
+* Finish up with the adjusted table sheet in Excel
+* Replicate all adjustments from the Excel sheet in Power Bi Power Query
+* Probable drop the COGS column if you can't figure out how its calculated
+* Create your own column for 'Manufacturing Cost Total'
+* Analyze the profit margins per month and see which months have been more profitable than others
+* Analyze the profit margins per discount band and find the best discount band with the highest profit margins
