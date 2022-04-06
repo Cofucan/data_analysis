@@ -4,6 +4,8 @@ The dataset was downloaded as a sample dataset from docs.microsoft.com in the Po
 
 The data contains fictional sales records of 6 differnet products sold in multiple countries from the period of September 2013 to December 2014.
 
+---
+
 ## Software Tools Used
 I analyze the data with multiple softare tools (files included in the project folder).
 ### Excel
@@ -16,8 +18,9 @@ I bring the raw data to Power Bi and use Power Query to adjust the table like I 
 ### Tableau
 I also use Tableau to do the same vizualizations as I did with Power Bi.
 
-## Questions
 ---
+
+## Questions
 After studying the data, I've come up with questions which can be answered by analyzing the data;
 1. How do the discounts affect sales figures for each product?
 2. What are the profit margins for each product, relative to discounts?
