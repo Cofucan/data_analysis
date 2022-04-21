@@ -14,8 +14,8 @@ So far...
 I analyze the data with multiple softare tools (files included in the project folder).
 ### Excel
 This is a relatively large dataset with multiple tables (one table contains over 2 million rows), so I don't bother to analyze it with Excel. I could use Power Query addin but since its also in Power Bi, I descide to just use Power Bi directly.
-### SQL 
-The original data file was a Microsoft Access file so I import it to SQL with all 6 tables.
+### SQL Server
+The original data file was a Microsoft Access file so I import it to Microsoft SQL Server with all 6 tables.
 ### Power Bi
 After writing all the queries to analyze the data and answer my questions, I bring the data to Power Bi to tell the story with vizualizations and dashboards.
 ### Tableau
