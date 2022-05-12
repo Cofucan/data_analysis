@@ -21,5 +21,7 @@ After writing all the queries to analyze the data and answer my questions, I bri
 ### Tableau
 I also use Tableau to do the same vizualizations as I did with Power Bi.
 
-## E. Story
+## E. Data Processing/Cleaning
+
+## F. Story
 
